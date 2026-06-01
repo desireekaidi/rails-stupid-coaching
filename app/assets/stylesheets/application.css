@@ -7,4 +7,9 @@
  * depending on specificity.
  *
  * Consider organizing styles into separate files for maintainability.
+
  */
+
+ .coach-reply {
+  background-color: #FFFDE7;
+}
